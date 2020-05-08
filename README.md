@@ -23,15 +23,12 @@ Each section of the story board includes a dashboard.
 
 Here are links to each of the individual Tableau dashboards created for this project:
 
-* [Most Used Bikes]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard6)
-* [Start Station Popularity Dashboard](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard2)
-* [End Station Popularity Dashboard](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard3)
-* [Rider Demographics Dashboard]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard1)
-* [Customers vs Subscribers Dashboard](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard5)
-* [Peak Hours ]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard4)
+* [Most Used Bikes](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard6)
+* [Start Station Popularity Dashboard(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard2)
+* [End Station Popularity Dashboard(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard3)
+* [Rider Demographics Dashboard](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard1)
+* [Customers vs Subscribers Dashboard(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard5)
+* [Peak Hours ](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard4)
 ### Visualizations
 
 Each dashboard consists of a group of related visualizations.
@@ -40,25 +37,17 @@ Here are links to each of the individual Tableau visualizations created for this
 
 * [Bike Trips By Gender](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet4)
 * [Bike Trips By Rider Type](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet7)
-* [Most Popular Start Stations]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet2)
-* [Avg Trip Duration by Age and Gender]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet5)
-* [Most Popular End Stations]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet9)
-* [Most Used Bikes (due for repair or inspection)](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet14)
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet15)
-* [Map - Most Popular Start Stations]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet3)
-* [Map - Most Popular End Stations]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet10)
-* [Bike Trips by Month and Gender]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet6)
+* [Most Popular Start Stations](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet2)
+* [Avg Trip Duration by Age and Gender](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet5)
+* [Most Popular End Stations](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet9)
+* [Most Used Bikes (due for repair or inspection](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet14)(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet15)
+* [Map - Most Popular Start Stations](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet3)
+* [Map - Most Popular End Stations](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet10)
+* [Bike Trips by Month and Gender](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet6)
 * [Bike Trips by Month and Rider Type](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet13)
-* [Peak Summer Hours (June 2019 - August 2019)](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet12)
+* [Peak Summer Hours (June 2019 - August 2019](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet12)
 * [Peak Winter Hours (December 2019 - February 2020)](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet11)
-* [End Station Popularity Over Time]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet8)
+* [End Station Popularity Over Time](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet8)
 * [Start Station Popularity Over Time](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet1)
 
 ## About the data
