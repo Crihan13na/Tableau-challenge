@@ -50,7 +50,8 @@ Here are links to each of the individual Tableau visualizations created for this
 (https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet9)
 * [Most Used Bikes (due for repair or inspection)](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet14)
 (https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet15)
-* [Map - Most Popular Start Stations](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet3)
+* [Map - Most Popular Start Stations]
+(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet3)
 * [Map - Most Popular End Stations]
 (https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet10)
 * [Bike Trips by Month and Gender]
