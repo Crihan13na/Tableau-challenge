@@ -38,10 +38,8 @@ Each dashboard consists of a group of related visualizations.
 
 Here are links to each of the individual Tableau visualizations created for this project:
 
-* [Bike Trips By Gender]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet4)
-* [Bike Trips By Rider Type]
-(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet7)
+* [Bike Trips By Gender](#https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet4)
+* [Bike Trips By Rider Type](#https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet7)
 * [Most Popular Start Stations]
 (https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet2)
 * [Avg Trip Duration by Age and Gender]
