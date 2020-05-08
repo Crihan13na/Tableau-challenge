@@ -25,7 +25,7 @@ Here are links to each of the individual Tableau dashboards created for this pro
 
 * [Most Used Bikes](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard6)
 * [Start Station Popularity](Dashboard(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard2)
-* [End Station Popularity](Dashboard(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard3)
+* [End Station Popularity]    (Dashboard(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard3)
 * [Rider Demographics Dashboard](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard1)
 * [Customers vs Subscribers](Dashboard(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard5)
 * [Peak Hours ](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Dashboard4)
@@ -41,7 +41,7 @@ Here are links to each of the individual Tableau visualizations created for this
 * [Avg Trip Duration by Age and Gender](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet5)
 * [Most Popular End Stations](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet9)
 * [Most Used Bikes (due for repair or inspection](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet14)(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet15)
-* [Map - Most Popular Start Stations(https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet3)
+* [Map - Most Popular Start Stations](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet3)
 * [Map - Most Popular End Stations](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet10)
 * [Bike Trips by Month and Gender](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet6)
 * [Bike Trips by Month and Rider Type](https://public.tableau.com/profile/anastasia.b.#!/vizhome/NewYorkCitiBikeAnalysis/Sheet13)
